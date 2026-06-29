@@ -1,0 +1,1 @@
+["session_duration_s", "events_count", "emg_duration_s", "emg_rms_mean", "emg_rms_max", "emg_rms_std", "emg_contractions_count", "emg_rest_count", "emg_contraction_ratio", "hr_duration_s", "hr_raw_mean", "hr_filtered_mean", "hr_filtered_max", "hr_filtered_std", "hr_valid_ratio", "hr_above_threshold_ratio"]

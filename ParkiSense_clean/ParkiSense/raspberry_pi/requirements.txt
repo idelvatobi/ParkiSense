@@ -1,0 +1,24 @@
+# ParkiSense — dependencias Python
+# Instalar con:  pip install -r requirements.txt
+
+# GUI principal
+PyQt6>=6.4.0
+
+# Gráficas en tiempo real (mucho más rápido que matplotlib para streams)
+pyqtgraph>=0.13.0
+
+# Comunicación serial con Arduino
+pyserial>=3.5
+
+# Data science / ML (Fases 2-4)
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+
+# Agente IA (Fase 4) — Ollama local (HTTP API en localhost:11434)
+requests>=2.28.0
+
+# Alternativas (no usadas, dejadas como referencia):
+# anthropic>=0.20.0
+# openai>=1.0.0
